@@ -158,7 +158,7 @@ int main(int argc, char **argv){
 					}
 					rbuf[r]='\0';
 					printf("\tack r:%d %s\n",r,rbuf);
-					sleep(1);
+					//sleep(1);
 
 				}
 
